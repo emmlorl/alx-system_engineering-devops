@@ -12,3 +12,4 @@ Going back to the previous directory
 List of long files with parent and current directory and boot
 Printing file type in tmp iamafile
 Creating a symbolic link to bin ls
+Copying all .html files from child to parent
