@@ -10,3 +10,4 @@ Deleting betty from tmp first directory
 Deleting first directory in tmp
 Going back to the previous directory
 List of long files with parent and current directory and boot
+Printing file type in tmp iamafile
