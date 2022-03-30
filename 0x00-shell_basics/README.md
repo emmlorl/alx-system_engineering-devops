@@ -14,3 +14,4 @@ Printing file type in tmp iamafile
 Creating a symbolic link to bin ls
 Copying all .html files from child to parent
 Moving all files starting with uppercase to directory
+Cleaning emacs totally
