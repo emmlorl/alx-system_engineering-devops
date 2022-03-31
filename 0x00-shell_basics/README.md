@@ -16,3 +16,5 @@ Copying all .html files from child to parent
 Moving all files starting with uppercase to directory
 Cleaning emacs totally
 Making a tree directory (parent directory within directory
+selecting commas
+creating the school magic file
