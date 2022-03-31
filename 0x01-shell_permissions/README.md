@@ -6,3 +6,4 @@ Creating an empty file
 Making a file executable
 Making multiple permissions x x r
 Script to add execution permission to all
+Script where only otherusers have all permissions
