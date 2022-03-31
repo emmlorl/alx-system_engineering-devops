@@ -10,3 +10,4 @@ Script where only otherusers have all permissions
 Script to set specific mode
 Duplicating mode
 Changing all permission even in sub dir for user group and others
+Creating a script that creates directory with permissions
