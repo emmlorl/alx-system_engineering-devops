@@ -12,3 +12,4 @@ Duplicating mode
 Changing all permission even in sub dir for user group and others
 Creating a script that creates directory with permissions
 Script to change group owner
+Changing the owner and group owner of all files
