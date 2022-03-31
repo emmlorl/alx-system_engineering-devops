@@ -14,3 +14,4 @@ Creating a script that creates directory with permissions
 Script to change group owner
 Changing the owner and group owner of all files
 Changing ownerships with symbolic link
+Changing file owner only if it belongs to a particular user
