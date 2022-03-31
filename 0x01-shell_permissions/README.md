@@ -9,3 +9,4 @@ Script to add execution permission to all
 Script where only otherusers have all permissions
 Script to set specific mode
 Duplicating mode
+Changing all permission even in sub dir for user group and others
