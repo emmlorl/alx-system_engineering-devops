@@ -14,3 +14,4 @@ Displaying the files in the dir in ass order
 Sorting list of words 
 Displaying lines containing the pattern from file
 Displaying number of lines
+Displaying lines containing the pattern " " and 3 lines 
