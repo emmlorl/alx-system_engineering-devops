@@ -6,3 +6,4 @@ Displaying last 10 lines of file
 Displaying first 10 lines of file
 Displyng the 3rd line of a file
 creating a file
+saving current state of directory
