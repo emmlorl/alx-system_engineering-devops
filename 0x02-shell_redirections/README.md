@@ -19,3 +19,4 @@ Display all lines in a file that do not contain bin
 Displaying all lines of file starting with capital letter 
 replacing all characters from a given input
 remove all letters from input
+Sctipt that reverses its input
