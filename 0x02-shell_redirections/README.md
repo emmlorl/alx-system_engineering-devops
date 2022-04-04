@@ -3,3 +3,4 @@ Script to display confused smiley
 Displaying the content ofa dir
 Displaying content of 2 files
 Displaying last 10 lines of file
+Displaying first 10 lines of file
