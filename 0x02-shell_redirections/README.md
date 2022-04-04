@@ -20,3 +20,4 @@ Displaying all lines of file starting with capital letter
 replacing all characters from a given input
 remove all letters from input
 Sctipt that reverses its input
+Script that displays all users and their home dir, sorted by user
