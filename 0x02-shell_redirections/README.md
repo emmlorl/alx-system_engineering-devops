@@ -9,3 +9,4 @@ creating a file
 saving current state of directory
 Script to duplicate last line of file
 Deleting all regular files with extension
+counting directories including hidden dir but not the cirrent dir
